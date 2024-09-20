@@ -15,8 +15,8 @@ public class Divisionscheck {
         int input3 = scanner1.nextInt();
 
         while (input3 >= input2) {
-            input3 = input3 - input2 ;
-        System.out.println(input3);
+            input3 = input3 - input2;
+            System.out.println(input3);
+        }
     }
-}
 }

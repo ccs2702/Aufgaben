@@ -8,10 +8,11 @@ public class Quersumme {
         System.out.println("Bitte Zahl eingeben: ");
 
         long input = scanner.nextLong();
-        long result= input;
-
+        long result = input;
 
 
         System.out.println("Die Quersumme ist: " + result);
     }
+
+
 }

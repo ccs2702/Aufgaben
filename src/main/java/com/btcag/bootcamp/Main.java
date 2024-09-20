@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Bitte Zahl eingeben zur Quadratzahl");
-        long thenumber =scanner.nextLong();
+        long thenumber = scanner.nextLong();
         thenumber *= thenumber;
         System.out.println("Ergebnis:" + thenumber);
 

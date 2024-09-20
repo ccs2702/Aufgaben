@@ -8,7 +8,7 @@ public class Primfaktorzerlegung {
         System.out.println("Bitte Zahl für den Primtest eingeben: ");
 
         long input = scanner.nextLong();
-        long input2 = input -1;
+        long input2 = input - 1;
         boolean isPrim = true;
 
         while (input2 > 1) {
